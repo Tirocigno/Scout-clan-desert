@@ -23,7 +23,7 @@ div.nome {
 }
 
 div.testo {
-  float:left;
+  float:right;
   display:block;
   width: 70%;
   height: 100%;
