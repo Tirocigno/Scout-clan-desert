@@ -1,8 +1,472 @@
-h1 {
-  color: green;
+body {
+  background-color: whitesmoke;
 }
 
-body {
-  text-align: center;
-  margin: auto;
+div.tot {
+  text-align: left;
+  margin: 20%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  line-height: 60px;
+  color: darkgray;
 }
+
+p {
+  margin: 0;
+}
+
+div.nome {
+  float:left;
+  display: block;
+  width: 25%;
+  height: 100%;
+}
+
+div.testo {
+  float:left;
+  display:block;
+  width: 70%;
+  height: 100%;
+}
+
+.nome {
+  text-align: right;
+  padding-right: 2%;
+}
+
+
+div.chiaraporcellini .nome p.chiaraporcellini {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.chiaraporcellini:hover p.chiaraporcellini {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.caterinalaghi .nome p.caterinalaghi {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.caterinalaghi:hover p.caterinalaghi{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.francescofranco .nome p.francescofranco{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.francescofranco:hover p.francescofranco {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.margheritatura .nome p.margheritatura {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.margheritatura:hover p.margheritatura{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.emanuelemigani .nome p.emanuelemigani {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.emanuelemigani:hover p.emanuelemigani {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.caterinarughi .nome p.caterinarughi {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.caterinarughi:hover p.caterinarughi {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.giuliascozzoli .nome p.giuliascozzoli {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.giuliascozzoli:hover p.giuliascozzoli {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.riccardorossi .nome p.riccardorossi {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.riccardorossi:hover p.riccardorossi{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.alessandroaldini .nome p.alessandroaldini{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.alessandroaldini:hover p.alessandroaldini{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.biancabrunacci .nome p.biancabrunacci {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.biancabrunacci:hover p.biancabrunacci {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.costanzagiannini .nome p.costanzagiannini {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.costanzagiannini:hover p.costanzagiannini {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+
+div.simonecarro .nome p.simonecarro {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.simonecarro:hover p.simonecarro{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.chiarabenati .nome p.chiarabenati {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.chiarabenati:hover p.chiarabenati {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.matildebassi .nome p.matildebassi {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.matildebassi:hover p.matildebassi {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.ceciliaspazzoli .nome p.ceciliaspazzoli{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.ceciliaspazzoli:hover p.ceciliaspazzoli{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.andreapaoli .nome p.andreapaoli {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.andreapaoli:hover p.andreapaoli {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.matildevalentini .nome p.matildevalentini {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.matildevalentini:hover p.matildevalentini{
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.francescaspazzoli .nome p.francescaspazzoli {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.francescaspazzoli:hover p.francescaspazzoli {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.andrearicci .nome p.andrearicci {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.andrearicci:hover p.andrearicci {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.laurafabbri .nome p.laurafabbri {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.laurafabbri:hover p.laurafabbri {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.chiaraporcellini2 .nome p.chiaraporcellini2 {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.chiaraporcellini2:hover p.chiaraporcellini2 {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.beatricescheda .nome p.beatricescheda {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.beatricescheda:hover p.beatricescheda {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.matildevalentini2 .nome p.matildevalentini2 {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.matildevalentini2:hover p.matildevalentini2 {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.alessandroseveri .nome p.alessandroseveri {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.alessandroseveri:hover p.alessandroseveri {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.chiarabenati2 .nome p.chiarabenati2 {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.chiarabenati2:hover p.chiarabenati2 {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.elenatisselli .nome p.elenatisselli {
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.elenatisselli:hover p.elenatisselli {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.giovannitedaldi .nome p.giovannitedaldi{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.giovannitedaldi:hover p.giovannitedaldi {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.chiaracontavalli .nome p.chiaracontavalli{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.chiaracontavalli:hover p.chiaracontavalli {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.gaiavitali .nome p.gaiavitali{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.gaiavitali:hover p.gaiavitali {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+
+div.leonardocasadei .nome p.leonardocasadei{
+  opacity: 0;
+  font-size: 0px;
+  padding: 0;
+}
+
+div.leonardocasadei:hover p.leonardocasadei {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+div.federicazonta .nome p.federicazonta{
+  opacity: 0;
+  font-size: 0px;
+}
+
+div.federicazonta:hover p.federicazonta {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+p.federicazonta {
+  padding-top: 50px;
+  opacity: 0.7;
+}
+
+img {
+  width: 90%;
+  height: auto;
+}
+
+div.marcovalentini .nome p.marcovalentini{
+  opacity: 0;
+  font-size: 0px;
+}
+
+div.marcovalentini:hover p.marcovalentini {
+  opacity: 1;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+p.marcovalentini {
+  padding-top: 50px;
+  margin-bottom: 200px;
+}
+
