@@ -330,7 +330,7 @@ export default class App extends Component {
 
         <div className="giovannitedaldi row">
 
-          <div className="nome col-12 col-sm-6" id="giovannitedaldi"><p className="giovannitedaldi">Gaia Vitali</p>
+          <div className="nome col-12 col-sm-6" id="giovannitedaldi"><p className="giovannitedaldi">Giovanni Tedaldi</p>
           </div>
 
           <div className="testo col-12 col-sm-6" id="giovannitedaldi"><p className="giovannitedaldi">Se noi ci
@@ -340,8 +340,7 @@ export default class App extends Component {
 
         <div className="chiaracontavalli row">
 
-          <div className="nome col-12 col-sm-6" id="chiaracontavalli"><p className="chiaracontavalli">Riccardo
-            Rossi</p></div>
+          <div className="nome col-12 col-sm-6" id="chiaracontavalli"><p className="chiaracontavalli">Chiara Contavalli</p></div>
 
           <div className="testo col-12 col-sm-6" id="chiaracontavalli"><p className="chiaracontavalli">Solo se
             sentiremo la loro sofferenza, potremmo sentire anche la gioia e tutte le sfumature
